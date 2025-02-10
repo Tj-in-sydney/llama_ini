@@ -1,0 +1,384 @@
+ACTIVE_OWNERSHIP_ID,ACTIVE_RENTAL_LISTING_ID,ACTIVE_SALE_AGREEMENT_ID,ACTIVE_SALE_LISTING_ID,ACTIVE_TENANCY_ID,BUILDING_NAME,COUNTRY,LATITUDE,LOCALITY,LONGITUDE,MAILBOX_NAME,ADDRESS_NUMBER,POSTAL_CODE,ADDRESS_REFERENCE,STATE,STREET,SUBURB,TEXT,UNIT,ADDRESS_TEXT,ARCHIVED_ON,AREA,AREA_UNIT,BATHROOMS,BEDROOMS,CAR_SPACES,DESCRIPTION,HAS_ACCESS_DETAILS,HAS_ACTIVE_INVOICE_TEMPLATE,HAS_LISTING_PROVIDER_IMPORT_IN_PROGRESS,ADDRESS_ID,IS_SUCCESSFUL,KEY_NUMBER,LABELS,LAND_AREA,LAND_AREA_UNIT,NEXT_INSPECTION_ON,NOTES,ACCOUNT_ID,CUSTOMER_ID,ACCOUNT_NUMBER,BSB,BILLER_CODE,BILLER_REFERENCE,FOLIO_ID,ACCOUNT_INDEX,IS_MARKED_FOR_DELETION,PAYEE,PAYMENT_METHOD,PERCENTAGE,ACCOUNT_VALUE,AGREEMENT_END_DATE,AGREEMENT_START_DATE,CELLPHONE,OWNERSHIP_CODE,CONTACT_ID,CONTACT_PERSON_COUNT,CONTACT_REFERENCE,CREATED_ON,CUSTOMER_ID,DISBURSE_BALANCE,DISBURSE_FREQUENCY,DISBURSE_INCOME,DO_NOT_RELET_REASON,EMAIL,FEES_COUNT,FIRST_NAME,FOLIO_ID,GAIN_COMMENT,GAIN_REASON_ID,HOME_PHONE,OWNERSHIP_ID,INVOICE_FROM,IS_RELET_ALLOWED,LABEL,LAST_NAME,LOST_COMMENT,LOST_REASON_ID,LOT_ADDRESS_TEXT,LOT_ID,LOT_REFERENCE,NEXT_DISBURSE_DATE,NORMALISED_MOBILE_PHONE,OWNED_FROM,SALUTATION,SETTLEMENT_DATE,UPDATED_ON,WORK_PHONE,PRIMARY_TYPE,PRORATA_STATUS,PROPERTY_MANAGER,PROPERTY_SUBTYPE,REFERENCE,RENT_OVERPAID,RENT_OWING_PRE_VACATE,ADDITIONAL_ATTRIBUTES,ANNUAL_RAINFALL,AUCTION_DATE_TIME,AUCTION_LOCATION,AUTHORITY,BOND_AMOUNT,CAR_PORTS,CARRYING_CAPACITY,CLOSED_ON,COMMERCIAL_LISTING_TYPE,COMMERCIAL_RENT_MAX,COMMERCIAL_RENT_MIN,COMMERCIAL_RENT_PER_ANNUM,COMMERCIAL_RENT_TAX,COMMERCIAL_SALE_PRICE_TAX,COUNCIL_RATES,RENTAL_LISTING_CREATED_ON,RENTAL_LISTING_CUSTOMER_ID,DATE_AVAILABLE,DAYS_AVAILABLE,DAYS_ON_MARKET,RENTAL_LISTING_DESCRIPTION,DISPLAY_SALE_PRICE,DISPLAY_SOLD_PRICE,ENSUITE,EXCLUSIVITY,FEATURE_LIST,FEATURES,FENCING,GARAGES,HEADLINE,HIGHLIGHT1,HIGHLIGHT2,HIGHLIGHT3,RENTAL_LISTING_ID,IMPROVEMENTS,INFORMATION_STATEMENT_URL,IRRIGATION,IS_DISPLAY_RENT_AMOUNT,RENTAL_LISTING_LABELS,LISTING_AGENTS_NAME,LISTING_STATUSES,LISTING_TYPE,LIVING_AREAS,RENTAL_LISTING_LOT_ID,LOT_LAST_UPDATED_ON,MANAGER_MEMBER_ID,MANAGER_MEMBER_ID2,RENTAL_LISTING_NEXT_INSPECTION_ON,OCCUPANCY_TITLE,OPEN_SPACES,OUTGOINGS,PARKING_TYPE,PLUS_OUTGOINGS,PM_STATE,PRICE_DISPLAY_TEXT,PROPERTY_PRICE,PROPERTY_PRICE_VIEW,PUBLISHED_ON,RENT_AMOUNT,RENT_PERIOD,SET_SALE_DATE_TIME,SOIL_TYPES,SOLD_DATE_TIME,SOLD_PRICE,RENTAL_LISTING_STATUS_STATE,TOILETS,TOUR_LINK,UNDER_OFFER,RENTAL_LISTING_UPDATED_ON,VIDEO_LINK,ERROR_CODE,ERRORS,MESSAGE,META,STACK_TRACE,SALE_LISTING,STRATA_MANAGER_CONTACT_ID,STRATA_MANAGER_CONTACT_NAME,TASK_REMINDERS_COUNT,AGREEMENT_END,AGREEMENT_START,ALLOW_MEPAY_PAYMENTS,ARREARS_DAYS,BANK_REFERENCE,TENANCY_BOND_AMOUNT,BOND_ARREARS,BOND_IN_TRUST,BOND_RECEIPTED,BOND_REFERENCE,BREAK_LEASE,TENANCY_CELLPHONE,TENANCY_CLOSED_ON,TENANCY_CODE,CONTACT_EMAIL,TENANCY_CONTACT_ID,TENANCY_CONTACT_PERSON_COUNT,TENANCY_CONTACT_REFERENCE,TENANCY_CREATED_ON,TENANCY_CUSTOMER_ID,TENANCY_DAYS_IN_ARREARS,DEPOSITED,DIRECT_DEBIT,DIRECT_DEBIT_FIXED_AMOUNT,DIRECT_DEBIT_FREQUENCY,EFFECTIVE_PAID_TO,EXCLUDE_ARREARS_AUTOMATION,TENANCY_FIRST_NAME,TENANCY_FOLIO_ID,TENANCY_FOLIO_NUMBER,GENERATE_RENT_INVOICE,HAS_ACTIVE_OWNER,TENANCY_HOMEPHONE,TENANCY_ID,INVOICE_ARREARS,INVOICE_DAYS_IN_ARREARS,IS_ACTIVE,IS_CLOSED,TENANCY_LABEL,TENANCY_LAST_NAME,TENANCY_LAST_REVIEWED_ON,TENANCY_LOT_ADDRESS,TENANCY_LOT_ID,TENANCY_LOT_REFERENCE,MEPAY_STATUS,MOST_RENT_DUE,TENANCY_NAME,NEXT_DIRECT_DEBIT_DATE,NEXT_INCREASE_AMOUNT,NEXT_INCREASE_DATE,NEXT_REVIEW_DATE,TENANCY_NORMALISED_MOBILE_PHONE,TENANCY_NOTES,OPEN_BOND_RECEIVED,TENANCY_PAID_TO,PART_PAID,PENDING_BOND_PAYMENTS,PENDING_DEPOSIT_PAYMENTS,PENDING_INVOICE_PAYMENTS,PENDING_PAYMENTS,PENDING_RENT_PAYMENTS,TENANCY_PERIODIC,PRORATA_RENT_DUE,PRORATA_TO,RECEIPT_WARNING,TENANCY_RENT_AMOUNT,TENANCY_RENT_ARREARS,TENANCY_RENT_ARREARS_BY_PERIOD,TENANCY_RENT_DUE_BY_PERIOD,RENT_INVOICE_DAYS_IN_ADVANCE,TENANCY_RENT_PERIOD,TENANCY_RENT_SEQUENCE,TENANCY_REVIEW_FREQUENCY,TENANCY_SALUTATION,SEARCH_TEXT,TAX_ON_RENT,TENANCY_END,TENANCY_START,TERMINATION,TENANCY_TOTAL_ARREARS,TENANCY_TOTAL_ARREARS_BY_PERIOD,TENANCY_TOTAL_RENT_PAID,UNCLEARED_BALANCE,TENANCY_UPDATED_ON,TENANCY_WORKPHONE
+ad5d04f8-740e-4ca3-ac92-39daa3aba1f4,,,,,,,-999,,-999,,,,Bpay,,Bpay,Rejections,"Bpay
+Rejections",,"Bpay, Rejections",,,SquareMetres,0,0,0,,false,false,false,ad5d04f6-8a7d-49c9-9706-42ad310c6fa4,true,,,,SquareMetres,,,ae8a0042-121f-46ac-8b8f-c6771145c92a,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,,,,,ad5d04f8-740b-43d7-bbe9-65bce3d07d46,0,false,BPAY Rejections,None,100,0,,2021-07-07,,OWN01794,ad5d04f8-660c-4bfb-af78-f96914cfbe37,1,BPAY Rejections,2021-07-06 23:09:52.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,0,Manual,0,,,2,BPAY,ad5d04f8-740b-43d7-bbe9-65bce3d07d46,,,,ad5d04f8-740e-4ca3-ac92-39daa3aba1f4,0001-01-01,true,BPAY Rejections (OWN01794),Rejections,,,"Bpay, Rejections",ad5d04f6-8a7d-49c9-9706-42ad310c6fa4,BPAY Rejections,,,0001-01-01,,,2021-07-06 23:09:52.000,,Residential,,hastings + co,House,BPAY Rejections,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad570525-9809-0e57-940d-e5da1fd86863,ada5016f-2fd8-4a68-8e96-6bfaeaf1426c,,,,The Easton,Australia,-37.8486595,,145.1139069,,57,3125,"Middleborough Road, 102B/57",VIC,Middleborough Road,BURWOOD,"The Easton 102B/57 Middleborough Road
+BURWOOD VIC 3125",102B,"The Easton 102B/57 Middleborough Road, BURWOOD VIC 3125",,,SquareMetres,2,2,1,"Luxury living at the heart of Burwood
+
+Architecturally designed apartment complex with everything you could wish for - this new home comes with top quality fixtures and fittings, loads of natural light, open plan living areas, neutral toning�s to suit everyone�s pallet, floor to ceiling windows, balconies, storage cage and lift access. 
+
+This apartment is a 2 bedrooms, 2 baths and 1 car space, home to a world-leading university (Deakin University) and elite private schools (PLC, Wesley College), only 14km from Melbourne CBD and close to everything you need around the clock. 
+
+Wake up to the local cafe scene or hit the park for a fitness fix. Take the tram (#75) into Melbourne from right outside your doorstep, 600m to the bus stop or the Monash Freeway in or out of town. Stealing some down time is easy too, with parklands and recreational facilities at every turn.",false,false,false,ad570516-784f-5390-96b1-50dd9d681358,true,429,|cleaned||Sold|,,SquareMetres,2024-06-13,"1 weeks +GST re-letting
+Advertising $295+GST
+Photos $150+GST
+EOFY statement $50+GST",ad570525-ddd2-460d-9756-daf1e26da0ed,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,11111111,111111,,,ad570525-d8af-46f0-bd7a-2178b8b91cc9,0,false,MayBank Singapore (AUD) - Lam Yiu Ling,Cheque,100,0,,,+852 62797559,OWN00565,ad570525-9809-0f02-96c7-90c2869e9974,1,Yiu Ling LAM,2021-06-30 23:59:26.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,10000,Manual,,,chloe1021@hotmail.com,6,Yiu Ling,ad570525-d8af-46f0-bd7a-2178b8b91cc9,,,,ad570525-9809-0e57-940d-e5da1fd86863,0001-01-01,true,"102B/57 Middleborough Road, BURWOOD, 3125 (OWN00565)",LAM,,,"The Easton 102B/57 Middleborough Road, BURWOOD VIC 3125",ad570516-784f-5390-96b1-50dd9d681358,"102B/57 Middleborough Road, BURWOOD, 3125",,+85262797559,0001-01-01,Chloe,,2021-06-30 23:59:26.000,,Residential,,Erik Yin,Apartment,"102B/57 Middleborough Road, BURWOOD, 3125",,,,,,,Auction,1738,,,,,,,,unknown,unknown,,2021-09-16 06:41:04.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,2021-09-14,712,708,"Architecturally designed apartment complex with everything you could wish for - this new home comes with top quality fixtures and fittings, loads of natural light, open plan living areas, neutral tonings to suit everyone's pallet, floor to ceiling windows, balconies, storage cage and lift access. 
+
+This apartment is a 2 bedrooms, 2 baths and 1 car space, home to a world-leading university (Deakin University) and elite private schools (PLC, Wesley College), only 14km from Melbourne CBD and close to everything you need around the clock. 
+
+Wake up to the local cafe scene or hit the park for a fitness fix. Take the tram (#75) into Melbourne from right outside your doorstep, 600m to the bus stop or the Monash Freeway in or out of town. Stealing some down time is easy too, with parklands and recreational facilities at every turn.
+
+:: PLEASE NOTE ::
+In light of social distancing, Dynamic Residential will be conducting private, one-on-one inspections of this property by appointment only.
+Before booking a time to inspect, please view all photos, the walk-through video and read the description, to ensure the property is suitable for you.
+
+Please get in touch or Book an inspection with us to arrange your private appointment time. 
+You can also Apply Online using the link on this page, but please note you will need to have inspected the property prior to being accepted. 
+Your health and safety is always important to us, and especially now as we work to stop the spread of COVID-19. We thank you for your cooperation and understanding as we all work together through this time.",true,false,,exclusive,"[
+  ""HasHotWaterService""
+]",|Hot water service|,,1,Luxury living at the heart of Burwood,,,,ada5016f-2fd8-4a68-8e96-6bfaeaf1426c,,,,true,,Victor Hua,"[
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": ""15391402"",
+    ""HtmlDescription"": """",
+    ""Id"": ""ada5016f-3001-40cb-b8b1-46b3225c956d"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2021-10-03T23:15:23.0000000Z"",
+    ""ListingCompany"": ""Domain"",
+    ""ListingCompanyDescription"": ""Domain.com.au"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""ad59005b-1300-ffd3-b96a-0cb222c6407a"",
+    ""LogId"": 564078,
+    ""NewState"": ""Withdrawn"",
+    ""SecondExternalId"": null,
+    ""State"": ""Withdrawn"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""ada5016f-3001-45e3-999d-4a14b49c3ddb"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2021-10-03T23:15:22.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""ad5f0000-7365-4474-a8db-1cdd854c93ee"",
+    ""LogId"": 564077,
+    ""NewState"": ""Withdrawn"",
+    ""SecondExternalId"": null,
+    ""State"": ""Withdrawn"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""ada5016f-3001-47c0-a5c9-84193ee9f175"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2021-10-03T23:15:22.0000000Z"",
+    ""ListingCompany"": ""Rent"",
+    ""ListingCompanyDescription"": ""Rent.com.au"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""ad5e0525-2c54-4506-ab39-d93213e29cf6"",
+    ""LogId"": 564074,
+    ""NewState"": ""Withdrawn"",
+    ""SecondExternalId"": null,
+    ""State"": ""Withdrawn"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""ada5016f-3001-4e7b-a10c-ea92427a77e9"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2021-12-20T10:07:32.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""ad5a00c3-635e-4c2d-95ba-21c51272cfe1"",
+    ""LogId"": 763904,
+    ""NewState"": ""Withdrawn"",
+    ""SecondExternalId"": null,
+    ""State"": ""Withdrawn"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""REA Listing state sucessfully changed to Withdrawn"",
+    ""ExternalId"": ""ada5016f2fd84a688e966bfaeaf1426c"",
+    ""HtmlDescription"": ""REA Listing state sucessfully changed to Withdrawn"",
+    ""Id"": ""ada5016f-3001-4f15-893c-0d5bd5ae6002"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2021-10-03T23:15:22.0000000Z"",
+    ""ListingCompany"": ""Realestate"",
+    ""ListingCompanyDescription"": ""Realestate.com.au"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""ad590052-1239-4f38-9c18-14f54db84d97"",
+    ""LogId"": 564075,
+    ""NewState"": ""Withdrawn"",
+    ""SecondExternalId"": ""432735098"",
+    ""State"": ""Withdrawn"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""af2600ce-b2f7-4b3d-91e9-c2fba60ba009"",
+    ""IsEnabled"": false,
+    ""ListOn"": null,
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""af260008-c38b-4696-9624-49c961d51017"",
+    ""LogId"": null,
+    ""NewState"": ""Draft"",
+    ""SecondExternalId"": null,
+    ""State"": ""Draft"",
+    ""Status"": ""NotSent"",
+    ""StatusDescription"": ""Not Sent""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""af5c0165-16c0-4757-afd4-227b4c04151e"",
+    ""IsEnabled"": false,
+    ""ListOn"": null,
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""af5c0165-153d-44e2-a123-33ef287327a8"",
+    ""LogId"": null,
+    ""NewState"": ""Draft"",
+    ""SecondExternalId"": null,
+    ""State"": ""Draft"",
+    ""Status"": ""NotSent"",
+    ""StatusDescription"": ""Not Sent""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": null,
+    ""HtmlDescription"": """",
+    ""Id"": ""afa1005f-9778-4e55-8e0a-c928d56fbc9e"",
+    ""IsEnabled"": false,
+    ""ListOn"": null,
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""ada5016f-2fd8-4a68-8e96-6bfaeaf1426c"",
+    ""ListingProviderId"": ""afa1005f-9601-4667-b58e-b943100b2d43"",
+    ""LogId"": null,
+    ""NewState"": ""Draft"",
+    ""SecondExternalId"": null,
+    ""State"": ""Draft"",
+    ""Status"": ""NotSent"",
+    ""StatusDescription"": ""Not Sent""
+  }
+]",Rental,,ad570516-784f-5390-96b1-50dd9d681358,2021-09-16 06:40:58.000,ad270072-7e7c-4470-b43c-4bc32738fc01,,,,,,noParking,false,Withdrawn,,,,2021-09-17 00:44:05.000,400,weekly,,,,,Withdrawn,,,false,2021-10-03 23:15:22.000,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad58000d-d2eb-4156-8a10-dc6da8172c93,b0370138-f32b-4c0f-a5a3-3be23d4bdc1f,,,,The Peak,,-37.8087593,,144.9674745,,141-149,3000,"La Trobe Street, 3702/141-149",VIC,La Trobe Street,MELBOURNE,"The Peak 3702/141-149 La Trobe Street
+MELBOURNE VIC 3000",3702,"The Peak 3702/141-149 La Trobe Street, MELBOURNE VIC 3000",,,SquareMetres,2,2,0,"
+
+",false,false,false,ad57051d-80d3-02fb-8ca7-0ad355518757,true,*734,|Cleaned||PCV CHECK COMPLETED||Victor Referral|,,SquareMetres,2024-05-16,"reletting 0.5 weeks plus GST
+advertising $295 plus GST",ad58000e-e1dd-420a-b54f-80f7b0879089,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,177628609,633000,,,ad58000e-dd5a-4189-b109-4edf41b4e3ce,0,false,Yuanchun SHEN,EFT,100,0,,,+8618872230097,OWN00953,ad58000d-d2eb-42f6-a0dd-f5067ce089c1,1,Guoping TAN,2021-07-01 00:16:14.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,0,Manual,1000,,781917256@qq.com,13,Guoping,ad58000e-dd5a-4189-b109-4edf41b4e3ce,,,,ad58000d-d2eb-4156-8a10-dc6da8172c93,0001-01-01,true,"3702/141-149 La Trobe Street, MELBOURNE, 3000 (OWN00953)",TAN,,,"The Peak 3702/141-149 La Trobe Street, MELBOURNE VIC 3000",ad57051d-80d3-02fb-8ca7-0ad355518757,"3702/141-149 La Trobe Street, MELBOURNE, 3000",,+8618872230097,0001-01-01,Guoping TAN,,2021-07-01 00:16:14.000,,Residential,,Erik Yin,Apartment,"3702/141-149 La Trobe Street, MELBOURNE, 3000",,,,,,,Auction,3259,,,,,,,,unknown,unknown,,2023-07-06 05:41:49.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,2023-08-10,17,0,"This 2-bedroom apartment is fitted with floor-to-ceiling windows, light timber floors, functional living space and a modern kitchen with high-quality finishes. Also featuring reverse cycle air conditioning, a 6-Star NatHERS and Bosch stainless steel kitchen appliances. 
+
+The building's crystalline facade moves with the changing direction of sunlight and features high-quality amenities within, including BBQ facilities, a dining room, a theatre room, a quiet reading room, a library and an indoor kitchen with bookable facilities.
+
+Close proximity to free city circle tram, Victoria State Library, Carlton Garden, Melbourne Central Station, Emporium, Melbourne Central and QV. 
+
+The photos are taken from a higher level so the views from the window might be slightly different.
+
+INSPECTING IS EASY - Simply scroll down the page to the ‘INSPECTIONS’ subheading and click ‘REQUEST A TIME’ to book a date and time or submit your enquiry. Please ensure you register your details prior to attending the inspection. Once registered, we can keep you updated with available inspection times and any changes or cancellations. So don't miss out, book an inspection today!
+To submit an application for this property, simply click the “Get in Touch” button and we will respond with instructions on how to apply.",true,false,1,exclusive,"[
+  ""HasAirConditioning"",
+  ""HasIntercom"",
+  ""HasBuiltInRobes"",
+  ""HasDishwasher"",
+  ""HasFloorboards"",
+  ""HasGasHeating"",
+  ""HasHotWaterService"",
+  ""HasInternalLaundry""
+]",|Air conditioning|Intercom|Built in wardrobes|Dishwasher|Floorboards|Gas heating|Hot water service|Internal laundry|,,,Centrally-Located Two Bedroom Apartment,,,,b0370138-f32b-4c0f-a5a3-3be23d4bdc1f,,,,true,,Andrea Fera,"[
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Listing upload was processed"",
+    ""ExternalId"": ""b0370138f32b4c0fa5a33be23d4bdc1f"",
+    ""HtmlDescription"": ""Listing upload was processed"",
+    ""Id"": ""b0370138-f3c6-4166-afbe-77ad128e127c"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Realestate"",
+    ""ListingCompanyDescription"": ""Realestate.com.au"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""ad590052-1239-4f38-9c18-14f54db84d97"",
+    ""LogId"": 2462652,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": ""437251212"",
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": null,
+    ""ExternalId"": ""16565087"",
+    ""HtmlDescription"": """",
+    ""Id"": ""b0370138-f3d6-40db-b920-b90abb35312e"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:53.0000000Z"",
+    ""ListingCompany"": ""Domain"",
+    ""ListingCompanyDescription"": ""Domain.com.au"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""ad59005b-1300-ffd3-b96a-0cb222c6407a"",
+    ""LogId"": 2462657,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-41b8-b863-22b65bd3fb02"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""ad5f0000-7365-4474-a8db-1cdd854c93ee"",
+    ""LogId"": 2462651,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-4259-92ac-76e58b07dc54"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""afa1005f-9601-4667-b58e-b943100b2d43"",
+    ""LogId"": 2462656,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-4345-a35e-3b5046f2adf3"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""af260008-c38b-4696-9624-49c961d51017"",
+    ""LogId"": 2462653,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-4507-91cf-35205a23ce15"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""ad5a00c3-635e-4c2d-95ba-21c51272cfe1"",
+    ""LogId"": 2462650,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-4d2c-964e-501528e5304f"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Custom"",
+    ""ListingCompanyDescription"": ""Custom"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""af5c0165-153d-44e2-a123-33ef287327a8"",
+    ""LogId"": 2462655,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  },
+  {
+    ""CustomerId"": ""ad1d0104-06a8-49c7-ad26-95f14d3c9abd"",
+    ""Description"": ""Skipped to update the provider"",
+    ""ExternalId"": null,
+    ""HtmlDescription"": ""Skipped to update the provider"",
+    ""Id"": ""b0370138-f3d6-4d54-af4b-f5799ce1278a"",
+    ""IsEnabled"": true,
+    ""ListOn"": ""2023-08-23T01:25:49.0000000Z"",
+    ""ListingCompany"": ""Rent"",
+    ""ListingCompanyDescription"": ""Rent.com.au"",
+    ""ListingId"": ""b0370138-f32b-4c0f-a5a3-3be23d4bdc1f"",
+    ""ListingProviderId"": ""ad5e0525-2c54-4506-ab39-d93213e29cf6"",
+    ""LogId"": 2462654,
+    ""NewState"": ""Current"",
+    ""SecondExternalId"": null,
+    ""State"": ""Current"",
+    ""Status"": ""Processed"",
+    ""StatusDescription"": ""Processed""
+  }
+]",Rental,,ad57051d-80d3-02fb-8ca7-0ad355518757,2023-06-30 06:54:50.000,af240517-57f2-4f96-a0c5-c4f0239916ca,,,,,,noParking,false,Published,,,,,750,weekly,,,,,Current,1,,false,2023-08-01 06:12:42.000,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ae8600ed-4d13-4da6-a2b0-515d04f45f7b,,,,,,Australia,-37.826576,,144.962675,,42-48,3006,"Balston Street, 1802E/42-48",VIC,Balston Street,Southbank,"1802E/42-48 Balston Street
+Southbank VIC 3006",1802E,"1802E/42-48 Balston Street, Southbank VIC 3006",,,SquareMetres,1,1,0,,false,false,false,ae8600e9-cf56-4c0d-bf23-cb579bc1a7d9,true,,,,SquareMetres,2024-01-30,"For move in/out information please call the building managers Tony or Naz on 1300 062 726.
+There is an embedded network for electricity through Origin.
+The gas is supplied through the OC. 
+Water needs to be connected through South East Water.
+t. (03) 8531 8100
+e. vgundi@vbcs.com.au 
+Veronica Gundi",aea20168-16c6-4ccb-90e6-66ee98c1a6ca,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,10858203,065004,,,ae8600ed-4d13-4855-a6c8-4e82caabe6de,0,false,Ka Wing Shum,EFT,100,0,,2022-04-07,0432009918,OWN02286,ae8600ec-5f24-47ba-8a1f-3ab195908072,1,Kawing Shum,2022-04-29 04:19:12.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,,Manual,1000,,harryshumshum@gmail.com,11,Kawing,ae8600ed-4d13-4855-a6c8-4e82caabe6de,,,,ae8600ed-4d13-4da6-a2b0-515d04f45f7b,0001-01-01,true,"1802E/42-48 Balston Street, Southbank VIC 3006 (OWN02286)",Shum,,,"1802E/42-48 Balston Street, Southbank VIC 3006",ae8600e9-cf56-4c0d-bf23-cb579bc1a7d9,"1802E/42-48 Balston Street, Southbank VIC 3006",,+61432009918,0001-01-01,,,2022-04-29 04:19:12.000,,Residential,,Shirley Cheung,Apartment,"1802E/42-48 Balston Street, Southbank VIC 3006",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ad580004-8e0f-0e14-a049-14e2b4d40168,,,,b06604f3-cb79-fd7f-9cc8-18777a262840,,Australia,-37.708002,,144.5865289,,11,3338,"Amethyst Road, 11",VIC,Amethyst Road,MELTON SOUTH,"11 Amethyst Road
+MELTON SOUTH VIC 3338",,"11 Amethyst Road, MELTON SOUTH VIC 3338",,,SquareMetres,2,4,1,"Almost Brand New Modern 4 Bedroom Family Home.
+
+Modern 4 bedroom home with master bedroom and ensuite located at the front end of the home with the remaining bedrooms neatly located at the rear, all with built in robes.
+
+Large kitchen/meals area with tiles, plenty of natural light and well placed main bathroom, separate laundry, single lock up garage and maintenance free yard. 
+
+Located in Atherstone Estate Cobblebank's premium location.The property is short distance to the Melton train station, schools and Wood Grove shopping centre. Not far from upcoming Bacchus Marsh Grammar School (opening in 2019) making it an attractive proposition for many.
+
+*Please check open for inspection times prior to each open as times may vary without notice.",false,false,false,ad570516-784f-d66d-a25c-eb62454ccf50,true,551,|ENGLISH||Victor Referral|,,SquareMetres,2024-01-08,"Purchase Price - $383,749
+Defect Report - jason.hill@symonds.com.au
+
+House Alarm:
+1- Service code: 7884
+2- User code: 1020
+
+A/C Heating & Cooling system - Bonaire (installer):
+
+service@spec.com.au",ad580004-e116-4f03-876e-bb02ba4d3571,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,337798441,016270,,,ad580004-d979-4363-a600-57e01eaca1cd,0,false,Xiao Hui Teo,EFT,100,0,,,0425662484,OWN00684,ad580004-8e0f-0f05-bcec-39d55ec84351,1,Xiao Hui TEO,2021-07-01 00:05:18.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,0,Manual,1000,,xiaohui.teop@gmail.com,10,Xiao Hui,ad580004-d979-4363-a600-57e01eaca1cd,,,,ad580004-8e0f-0e14-a049-14e2b4d40168,0001-01-01,true,"11 Amethyst Road, Lot 408, MELTON SOUTH, 3338 (OWN00684)",TEO,,,"11 Amethyst Road, MELTON SOUTH VIC 3338",ad570516-784f-d66d-a25c-eb62454ccf50,"11 Amethyst Road, Lot 408, MELTON SOUTH, 3338",,+61425662484,0001-01-01,Xiao Hui,,2021-07-01 00:05:18.000,,Residential,,Nina Sidari,House,"11 Amethyst Road, Lot 408, MELTON SOUTH, 3338",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,2024-09-07,2023-09-08,false,-41,,1739,0,0,1739,15655805,,0423269951,,TEN03282,natashalewis1978@hotmail.com,b0670173-fdfc-4f2e-8f61-6d0f89d5c8c3,2,Natasha Burridge & Brett Burridge,2023-08-23 06:47:19.000,ad1d0104-06a8-49c7-ad26-95f14d3c9abd,-41,0,false,,RentDue,2023-10-07,false,Natasha,b06604f3-cb79-fd7f-9cc8-18777a262840,3282,false,true,,b06604f3-cb79-fd7f-9cc8-18777a262840,0,0,true,false,Natasha Burridge & Brett Burridge (TEN03282),Burridge,,"11 Amethyst Road, MELTON SOUTH VIC 3338",ad570516-784f-d66d-a25c-eb62454ccf50,"11 Amethyst Road, Lot 408, MELTON SOUTH, 3338",Disabled,0,Natasha Burridge & Brett Burridge,,,,2024-06-07 00:00:00.000,+61423269951,,0,2023-10-07,0,0,0,0,0,0,false,0,,,1739,0,0,-1739,0,monthly,0,9,,"Natasha Burridge & Brett Burridge TEN03282 11 Amethyst Road, Lot 408, MELTON SOUTH, 3338 ",false,,2023-09-08,,0,0,0,0,2023-08-25 01:45:22.000,
